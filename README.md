@@ -1,4 +1,1 @@
-# Simple Mario Game
-```
-Just load index.html on your browser
-```
+# JavaScript Game using ES6 features
